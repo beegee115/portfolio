@@ -1,3 +1,43 @@
-theme: jekyll-theme-minimal
+# Welcome to Jekyll!
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
 title: Brigitte Gagné’s technical writing portfolio
-description: An accomplished professional with 20+ years in the technology industry including 7 years as a technical writer.
+description: >- # this means to ignore newlines
+  An accomplished professional with 20+ years in the technology industry including 7 years as a technical writer.
+# From Github Page setup instructions
+domain: beege115.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://beegee115.github.io # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /portfolio/             # place folder name if the site is served in a subfolder
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
