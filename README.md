@@ -1,2 +1,2 @@
 # portfolio
-Writing Portfolio - Senior Technical Writer
+Writing Portfolio - Brigitte Gagné - Senior Technical Writer
