@@ -2,6 +2,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# try 'bundle exec jekyll build' to fix
 #
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -9,18 +10,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brigitte Gagné’s technical writing portfolio
+title: "Brigitte Gagné"
 description: >- # this means to ignore newlines
   An accomplished professional with 20+ years in the technology industry including 7 years as a technical writer.
+show_downloads: false 
+
 # From Github Page setup instructions
 domain: beege115.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://beegee115.github.io # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /portfolio/             # place folder name if the site is served in a subfolder
+baseurl: /portfolio             # place folder name if the site is served in a subfolder
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
