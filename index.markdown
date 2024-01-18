@@ -6,7 +6,7 @@
 I'm happy and humbled that you're taking this time to review my writing samples.
 
 I've curated some of my favourite pieces below.
-They are grouped by type and sorted by employer, chronologically, with the newest at the top.
+They are grouped by employer (newest first) and type.
 
 
 ## Developer onboarding (Fullscript)
