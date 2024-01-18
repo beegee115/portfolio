@@ -3,10 +3,10 @@
 
 # Professional portfolio
 
-Thank you for giving me the opportunity to be part of your team. 
-I'm happy and humbled that you're taking these few minutes to review my writing samples.
+I'm happy and humbled that you're taking this time to review my writing samples.
 
-I've curated some of my favourite pieces below, grouped by type and employer. 
+I've curated some of my favourite pieces below.
+They are grouped by type and sorted by employer, chronologically, with the newest at the top.
 
 
 ## Developer onboarding (Fullscript)
@@ -69,7 +69,7 @@ Unfortunately, I can't share the policy documents I helped write, or the UX desi
 However, I can share this work on our website, where I collaborated closely with our co-founders and HR team on initial product and company positioning. In addition to the content writing, I was also responsible for the info graphics and artwork.
 (I'm not an graphics designer, but I selected and modified stock graphics used.) 
 
-Click a thumbnail to view a screen capture (PNG) of the depicted web page.
+Click a thumbnail to view a screen capture (PNG) of the depicted web page. (You may need to zoom in to read the text.)
 
 [![Ario website homepage](assets/thumb--ario-homepage.jpg)](assets/ario--homepage.png)
 [![Ario careers page](assets/thumb--ario-careers.jpg)](assets/ario--careers.png)
@@ -124,7 +124,7 @@ Presented below are two examples of articles I wrote:
 Click a thumbnail to view a screen capture (PDF) of the depicted web page.
 
 [![Case study with Harvard](assets/thumb--epiphan-case-study.jpg)](assets/epiphan--harvard-case-study.pdf)
-[![Industry publication paid spot](assets/thumb--epiphan-industry-site.jpg)](assets/epiphan--paid-spotlight.pdf)
+[![Industry publication paid spot](assets/thumb--epiphan-industry-site.jpg)](assets/epiphan--paid-spotlight.jpg)
 
 
 ## Press releases and ghostwriting
