@@ -3,11 +3,10 @@
 
 # Professional portfolio
 
-I'm happy and humbled that you're taking this time to review my writing samples.
+In my seven years as a technical writer, I've had the opportunity to write in many different styles, and on many different topics.
+Below, you'll find a selection of samples that can give you a taste of my work.
 
-I've curated some of my favourite pieces below.
-They are grouped by employer (newest first) and type.
-
+Click on any thumbnail to view the associated writing sample.
 
 ## Developer onboarding (Fullscript)
 
